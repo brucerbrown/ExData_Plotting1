@@ -12,7 +12,7 @@ png(filename="Plot2.png", width=480, height=480)
 
 #Create the plot
 
-> plot(data$DateTime, data$Global_active_power, type="l", col="black", xlab="", ylab="Global Active Power (kilowatts)", main="")
+plot(data$DateTime, data$Global_active_power, type="l", col="black", xlab="", ylab="Global Active Power (kilowatts)", main="")
 
 #Sign out
 
