@@ -1,4 +1,3 @@
-#Set working directory to /Desktop/CoureraR (default setting)
 
 #Load a subset of the dataset and specify variables, date and time format
 
