@@ -1,4 +1,5 @@
-#Set working directory to /Desktop/CoureraR (default setting)
+#Working directory set to /Desktop/CoureraR (default setting)
+
 #Load a subset of the dataset and specify variables and date, time format
 
 data <- read.csv("household_power_consumption.txt", skip=66637, nrows=2880, na.strings = "?", header=F, sep=";")
